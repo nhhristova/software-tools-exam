@@ -7,10 +7,6 @@
   </parent>
   <artifactId>projectB</artifactId>
   <dependencies>
-  	<dependency>
-  		<groupId>uni.fmi.stsas</groupId>
-  		<artifactId>projectC</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+
   </dependencies>
 </project>
