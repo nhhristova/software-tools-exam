@@ -11,3 +11,8 @@ script:
 - cat $HOME/.m2/settings.xml
 #deploying the app on Heroku (will work for Docker too)
 - mvn heroku:deploy
+
+# safelist
+branches:
+  only:
+  - master
