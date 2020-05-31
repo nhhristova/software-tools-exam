@@ -6,4 +6,10 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>projectB</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>uni.fmi.stsas</groupId>
+  		<artifactId>projectC</artifactId>
+  	</dependency>
+  </dependencies>
 </project>
