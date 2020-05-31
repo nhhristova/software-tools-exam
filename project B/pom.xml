@@ -5,5 +5,5 @@
     <artifactId>project-A</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>project B</artifactId>
+  <artifactId>projectB</artifactId>
 </project>
